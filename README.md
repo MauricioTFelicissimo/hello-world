@@ -21,6 +21,6 @@ O objetivo deste tutorial foi, como mencionei antes, a aprender a usar linhas de
 Como esperado, por seguir cada etapa exatamente do jeito que o tutorial pedia, consegui realizar tudo e aprender tudo o que o tutorial tinha para me ensinar. Aqui irei explicar o passo a passo de cada etapa do tutorial.
 
 Começei criando um repositorio novo no GitHub chamado de "hello-world"
-<img src="images_pond/getstarted/gs1.png>
+<img src="images_pond/getstarted/gs1.png">
 
 # Conclusão
