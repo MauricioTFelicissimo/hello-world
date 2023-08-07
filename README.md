@@ -21,7 +21,7 @@ O objetivo deste tutorial foi, como mencionei antes, a aprender a usar linhas de
 Como esperado, por seguir cada etapa exatamente do jeito que o tutorial pedia, consegui realizar tudo e aprender tudo o que o tutorial tinha para me ensinar. Aqui irei explicar o passo a passo de cada etapa do tutorial.
 
 Começei criando um repositorio novo no GitHub chamado de "hello-world"
-<img src="images_pond/getstarted/gs1.png">
+<img src="images_pond/getstarted/gs1.png" width=50>
 
 Logo depois eu dei um push do repositorio local que eu criei na etapas anteriores do tutorial. Para isto eu utilizei a linha de comando 'git remote add origin' com o URL do repositorio que criei no GitHub. Este comando especifica que eu estou adicionando o repositorio remoto como origem do meu repositorio local do Git. Assim que fiz isso eu usei o comando 'git push --set-upstream origin master' para dar um push no branch mestre para o URL da origem.
 <img src="images_pond/getstarted/gs2.png">
