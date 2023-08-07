@@ -86,4 +86,6 @@ E finalmente, vi que deu certo, e agora podia deletar o branch novo, ja que o me
 <img src="images_pond/pushbranch/pub7.png">
 
 # Conclusão
-Em conclusão, 
+Em conclusão, o tutorial cumpriu com o seu objetivo, e ele conseguiu me ensinar a usar o Git e o GitHub. O objetivo era aprender a fazer alterações no GitHub, e atualizar o Git com estas alterações, e também fazer alterações no Git e atualizar o GitHub com estas alterações.
+
+Em conclusão, este relatório técnico detalhou a minha jornada ao realizar o tutorial de Git e GitHub, que é composto por sete etapas essenciais. Ao seguir as instruções, pude aprender as habilidades necessárias para usar o Git e o GitHub de maneira eficiente. O tutorial proporcionou uma compreensão completa das linhas de comando no terminal Git, permitindo uma boa comunicação entre repositórios locais e remotos. Este tutorial me ensinou a criar um novo repositório no GitHub, sincronizar bidirecionalmente as alterações, manipular branches, resolver conflitos e realizar merges, cada etapa foi cuidadosamente explorada. O resultado foi uma compreensão sólida das práticas de versionamento e colaboração através do Git e do GitHub, o que me capacitou a gerenciar projetos de forma mais eficaz e colaborativa no futuro.
